@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **BiGM RESOURSEC LTD.**
+- 🔭 I’m currently working on **BiGM RESOURCES LTD.**
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 - 👯 I’m looking to collaborate on **Content Creator**
 <!-- - 🤔 I’m looking for help with ...
